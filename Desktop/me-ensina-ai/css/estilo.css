@@ -1,0 +1,112 @@
+
+body{
+    
+    background:-o-linear-gradient(rgb(238, 214, 148))
+    
+}
+
+
+nav{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    color:black;
+    margin-top: 0px;
+    background-color:red;
+
+}
+#menu {
+    float: right;
+    padding: 10px;
+    background-color: red;
+}
+#logo{ 
+    margin-left: 150px;
+    font-size: 18px;
+    padding: 10px;
+    float: left;
+}
+#bold{
+    color:rgb(247, 238, 74);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+
+#area-navegacao{
+    width: 100%;
+    margin: auto;
+    
+
+}
+main{
+
+    margin:55px auto;
+    width: 700px;
+}
+section a{
+    text-decoration: none;
+    padding:10px;
+    margin: 50px;
+}
+a:visited{
+    color:black
+}
+a:active{
+    color:black
+}
+a:link{
+    color:black;
+
+}
+a:hover{
+color:black;
+background-color: rgb(252, 249, 88);
+}
+article{
+    background-color: rgb(240, 208, 176);
+    text-align: justify;
+    padding: 16px;
+
+} 
+p{ font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+
+
+}
+article p {
+   
+    line-height: 1.5em;
+    margin-top: 16px;
+    margin-bottom: 2px;
+}
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+    text-shadow: 5px 5px 2px rgb(143, 142, 140);
+
+}
+img{
+    height: 250px;
+    float: left;
+    margin: 0px;
+    padding: 8px;
+    border-radius: 30px 30px;
+}
+
+h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    text-shadow: 5px 5px 2px rgb(241, 201, 119);
+    color: rgba(238, 16, 16, 0.822);
+}
+
+li{
+    color: black;
+    font-size: 18px;
+    font-family: sans-serif;
+}
+h3{
+    font-size: 20px;
+    font-family: cursive;
+}
